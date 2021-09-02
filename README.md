@@ -1,1 +1,1 @@
-# Zomibie-Runner-By-Ayush-
+# zomibie-runner
